@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-we are adding again
-=======
-new changes
->>>>>>> copybranch
