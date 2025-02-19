@@ -1,3 +1,0 @@
-Name: Sakshi
-Company: Mindsprint
-Stipend: 3600000
